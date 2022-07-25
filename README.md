@@ -1,4 +1,6 @@
-!bongo-cat-codes(1)](https://user-images.githubusercontent.com/48392645/180890391-a34842b5-b18b-4ede-bd07-c7e70c85020e.gif)
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 <h1 align="center">Hi 👋, I'm Rana</h1>
 <h3 align="center">A passionate frontend developer from Cairo</h3>
 
