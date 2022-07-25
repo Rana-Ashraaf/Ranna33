@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif))](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif)
 <h1 align="center">Hi 👋, I'm Rana</h1>
 <h3 align="center">A passionate frontend developer from Cairo</h3>
 
