@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="400" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
+  <img width="500" height="300" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Rana</h1>
 <h3 align="center">A passionate frontend developer from Cairo</h3>
