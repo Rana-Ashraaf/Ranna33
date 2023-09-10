@@ -1,12 +1,15 @@
 <h1 align="center">Hi, I'm Rana</h1>
 <h3 align="center">Frontend developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranna33" alt="ranna33" /></a> </p>
+
 - 📫 How to reach me **rannaashraf33@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14lWKu-PtSKXHHx6cCjymB1hGYIiAaMpV/view?usp=sharing](https://drive.google.com/file/d/14lWKu-PtSKXHHx6cCjymB1hGYIiAaMpV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rana-ashraff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-ashraff" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranna33&show_icons=true&locale=en&layout=compact" alt="ranna33" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranna33&show_icons=true&theme=dark&locale=en" alt="ranna33" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranna33&show_icons=true&theme=tokyonight&locale=en" alt="ranna33" /></p>
